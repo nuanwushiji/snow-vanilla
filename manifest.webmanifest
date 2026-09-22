@@ -1,0 +1,11 @@
+{
+  "name": "Snow Vanilla 梦向字卡",
+  "short_name": "Snow Vanilla",
+  "description": "完全由用户字卡驱动的梦向交流网站",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eeeae5",
+  "theme_color": "#f3ebed"
+}
